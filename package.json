@@ -1,0 +1,25 @@
+{
+  "name": "webpack-2-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamed-ismat/webpack-2-from-scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamed-ismat/webpack-2-from-scratch/issues"
+  },
+  "homepage": "https://github.com/mohamed-ismat/webpack-2-from-scratch#readme",
+  "devDependencies": {
+    "webpack": "^2.5.0",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
